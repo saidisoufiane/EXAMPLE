@@ -1,0 +1,28 @@
+.paragraphe {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline wavy;
+  
+}
+.class{
+    color: red;
+}
+p{
+    text-align: right;
+    text-align: justify;
+    text-indent: 40px;
+}
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+}
+footer p {
+    text-align: center;
+    letter-spacing: 6px;
+    line-height: 60px;
+    word-spacing: 5px;
+    background-color: rgba(130,143,120,0,5)
+}
+body{
+    background-color: #fc9;
+}
